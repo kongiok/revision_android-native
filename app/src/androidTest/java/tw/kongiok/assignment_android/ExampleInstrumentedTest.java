@@ -1,4 +1,4 @@
-package revision.android;
+package tw.kongiok.assignment_android;
 
 import android.content.Context;
 
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
     public void useAppContext() {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getInstrumentation().getTargetContext();
-        assertEquals("revision.android", appContext.getPackageName());
+        assertEquals("tw.kongiok.assignment_android", appContext.getPackageName());
     }
 }

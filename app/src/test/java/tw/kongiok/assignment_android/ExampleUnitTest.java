@@ -1,4 +1,4 @@
-package revision.android;
+package tw.kongiok.assignment_android;
 
 import org.junit.Test;
 

@@ -13,5 +13,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "Revision_course-android"
+rootProject.name = "Assignment"
 include(":app")
